@@ -128,7 +128,8 @@ The report proposes a pragmatic test plan you can reuse:
 
 
 ---
-
+## Link to Blog:
+https://hashnode.com/preview/680f1dc7fa27647d8888d384
 
 
 ## Credits & contributions (two major contributors)
